@@ -14,7 +14,7 @@ Currently Lightsail does not feature a Docker blueprint, but that's not really a
 1. Enter the following code into the dialog box:
 
    ```
-   curl -o lightsail-compose.sh https://raw.githubusercontent.com/hashdog/lightsail-docker-compose/master/lightsail-compose.sh
+   curl -o lightsail-compose.sh https://raw.githubusercontent.com/tekclawltd/lightsail-docker-compose/master/lightsail-compose.sh
 
    chmod +x ./lightsail-compose.sh
 
